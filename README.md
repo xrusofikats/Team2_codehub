@@ -74,7 +74,4 @@ The add new course page must contain:
 
 ![Add new course page](public/add-new-course.png)
 
-### Extras / Bonus
 
-- Add client-side validations
-- Add insctuctors views / forms
